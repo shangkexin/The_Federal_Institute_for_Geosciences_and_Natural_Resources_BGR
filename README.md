@@ -1,0 +1,2 @@
+# The_Federal_Institute_for_Geosciences_and_Natural_Resources_BGR
+Importing Python code for The_Federal_Institute_for_Geosciences_and_Natural_Resources_BGR https://pardeewiki.du.edu/index.php?title=BGR_data&amp;oldid=11381
